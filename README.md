@@ -1,6 +1,6 @@
 ## Adriana Monteiro 👩🏻‍💻
 
- 🔭 I’m currently a Phd candidate on Probability and Statistics at Impa, Rio de Janeiro
+ 🔭 I’m Phd mathematician in Probability and Statistics from Impa, Rio de Janeiro
  
  🌱 I’m learning SQL
  
